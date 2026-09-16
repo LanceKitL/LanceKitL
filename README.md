@@ -15,7 +15,7 @@ Building web & mobile products end-to-end — from database schema to deployed U
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying at **PUP College of Computer and Information Sciences (CCIS)**
+- 🎓 Studying at **Polytechnic University of the Philippines - San Juan**
 - 🚗 Leading a **45-member team** building **Automatik**, a full-scale car dealership management system, as my capstone project
 - 💼 Take on **freelance & contract work** — client prototypes, MVPs, and production features
 - 🤖 Integrating **NVIDIA NIM** into apps for AI-powered features (chatbots, recommendations, learning tools)
