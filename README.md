@@ -2,7 +2,7 @@
 
 # Hi, I'm Lance (Kit) 👋
 
-### Fullstack Developer & AI Engineer based in the Philippines
+### Fullstack Developer based in the Philippines
 
 Building web & mobile products end-to-end — from database schema to deployed UI — with a growing focus on applied AI.
 
